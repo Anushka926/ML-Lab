@@ -1,5 +1,5 @@
 # # Lab 8: Support Vector Machine (SVM) for Classification
-# Dataset: `ai.csv` (AI4I 2020 Predictive Maintenance). Target: `Machine failure`.
+# Dataset: `ai.csv` (AI4I 2020 Predictive Maintenance). Target: `Machine failure`
 
 import numpy as np
 import pandas as pd
